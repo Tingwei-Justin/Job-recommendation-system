@@ -1,13 +1,13 @@
+
 package entity;
 
-
 import java.util.Set;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 public class Item {
-
 	private String itemId;
 	private String name;
 	private String address;
@@ -27,27 +27,31 @@ public class Item {
 	public String getItemId() {
 		return itemId;
 	}
+
 	public String getName() {
 		return name;
 	}
+
 	public String getAddress() {
 		return address;
 	}
+
 	public Set<String> getKeywords() {
 		return keywords;
 	}
+
 	public String getImageUrl() {
 		return imageUrl;
 	}
+
 	public String getUrl() {
 		return url;
 	}
-	
 	public void setKeywords(Set<String> keywords) {// why set?
 		this.keywords = keywords;
 	}
 
-	
+
 	public JSONObject toJSONObject() {
 		JSONObject obj = new JSONObject();
 		try {
@@ -62,7 +66,7 @@ public class Item {
 		}
 		return obj;
 	}
-	
+
 	public static class ItemBuilder {
 		private String itemId;
 		private String name;
@@ -70,7 +74,7 @@ public class Item {
 		private String imageUrl;
 		private String url;
 		private Set<String> keywords;
-		
+
 		public void setItemId(String itemId) {
 			this.itemId = itemId;
 		}
@@ -98,8 +102,5 @@ public class Item {
 		public Item build() {
 			return new Item(this);
 		}
-
 	}
-
-
 }

@@ -2135,3 +2135,276 @@
 2020-02-22 13:25:31,106 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-02-22 13:25:31,109 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-02-22 13:25:31,111 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-22 14:25:55,461 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-22 14:25:57,728 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:25:57,729 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:25:57,732 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:25:57,732 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:26:22,468 [Worker-6: Building Project jupiter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:26:22,468 [Worker-6: Building Project jupiter] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:26:22,471 [Worker-6: Building Project jupiter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:26:22,471 [Worker-6: Building Project jupiter] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:27:55,799 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:27:55,800 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:27:55,802 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:27:55,802 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:42:35,703 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:42:35,704 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:42:35,706 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:42:35,706 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:42:49,504 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:42:49,504 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:42:49,506 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:42:49,506 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:43:21,825 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:43:21,826 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:43:21,828 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:43:21,828 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:43:42,729 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:43:42,730 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:43:42,732 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:43:42,732 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:44:57,430 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:44:57,430 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:44:57,433 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:44:57,433 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:45:08,204 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:45:08,204 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:45:08,206 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:45:08,206 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:45:32,488 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:45:32,488 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:45:32,491 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:45:32,491 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:46:49,608 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:46:49,608 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:46:49,611 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:46:49,611 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:50:24,496 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:50:24,496 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:50:24,498 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:50:24,498 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:53:06,049 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:53:06,050 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:53:06,052 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:53:06,052 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:53:18,456 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:53:18,457 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:53:18,459 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:53:18,459 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:57:39,808 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:57:39,809 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:57:39,813 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:57:39,813 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 14:57:56,576 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:57:56,576 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 14:57:56,579 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 14:57:56,580 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:04:58,474 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:04:58,475 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:04:58,477 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:04:58,477 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:06:20,277 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:06:20,278 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:06:20,280 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:06:20,280 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:16:06,964 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:16:06,976 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:16:06,978 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:16:06,978 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:19:39,812 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:19:39,813 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:19:39,815 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:19:39,815 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:19:46,182 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:19:46,182 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:19:46,184 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:19:46,184 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:20:45,317 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:20:45,317 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:20:45,319 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:20:45,319 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:32:13,626 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:32:13,629 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:32:13,738 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:32:13,738 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:32:48,087 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:32:48,087 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:32:48,089 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:32:48,089 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:44:16,759 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:44:16,760 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:44:16,761 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:44:16,762 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:44:21,470 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:44:21,470 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:44:21,471 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:44:21,471 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:46:43,202 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:46:43,202 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:46:43,204 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:46:43,204 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:47:26,296 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:47:26,297 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:47:26,301 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:47:26,302 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 15:58:33,948 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:58:33,949 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 15:58:33,952 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 15:58:33,952 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:03:09,378 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-22 16:03:20,107 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:03:20,114 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:03:20,122 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:03:20,127 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:08:22,760 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: laiproject:jupiter:1.0 @ /Users/troy-mac/eclipse-workspace/jupiter/pom.xml.
+2020-02-22 16:08:24,404 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:24,404 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:08:24,408 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:24,408 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:08:24,408 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jupiter
+2020-02-22 16:08:24,411 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jupiter
+2020-02-22 16:08:24,418 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:26,123 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:26,123 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:08:26,126 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:26,134 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:08:26,514 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2020-02-22 16:08:26,766 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2020-02-22 16:08:26,814 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2020-02-22 16:08:27,199 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:27,199 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:08:27,201 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:27,201 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:08:29,935 [Worker-16: Launching Executing install in _Users_troy-mac_eclipse-workspace_jupiter] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/troy-mac/eclipse-workspace/jupiter
+2020-02-22 16:08:29,938 [Worker-16: Launching Executing install in _Users_troy-mac_eclipse-workspace_jupiter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-02-22 16:08:37,401 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:37,402 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:08:37,404 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:08:37,404 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:21:00,964 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-22 16:21:07,831 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: laiproject:jupiter:1.0 @ /Users/troy-mac/eclipse-workspace/jupiter/pom.xml.
+2020-02-22 16:21:11,530 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:21:11,530 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:21:11,888 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:21:11,889 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:21:12,414 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: laiproject:jupiter:1.0 @ /Users/troy-mac/eclipse-workspace/jupiter/pom.xml.
+2020-02-22 16:21:13,245 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:21:13,245 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:21:13,246 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:21:13,247 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:21:42,410 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:21:42,411 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:21:42,443 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:21:42,443 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:22:17,420 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:22:17,421 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:22:17,424 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:22:17,424 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:29:48,459 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:29:48,460 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:29:48,463 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:29:48,463 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:33:07,301 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:33:07,302 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:33:07,305 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:33:07,305 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:40:29,861 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:40:29,862 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:40:29,865 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:40:29,865 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:41:03,355 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:41:03,356 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:41:03,361 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:41:03,361 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:42:20,802 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:42:20,803 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:42:20,805 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:42:20,805 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:44:30,027 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:44:30,028 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:44:30,030 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:44:30,031 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:48:26,766 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:48:26,768 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:48:26,770 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:48:26,771 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:49:02,931 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:49:02,932 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:49:02,937 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:49:02,938 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:50:07,441 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:50:07,441 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:50:07,446 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:50:07,446 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:53:06,671 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:53:06,673 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:53:06,675 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:53:06,675 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:53:41,004 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:53:41,004 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:53:41,007 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:53:41,007 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:56:39,506 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:56:39,514 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:56:39,520 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:56:39,520 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:56:58,583 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:56:58,583 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:56:58,585 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:56:58,585 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:58:10,510 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:58:10,516 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:58:10,517 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:58:10,517 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 16:59:42,112 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:59:42,113 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 16:59:42,115 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 16:59:42,115 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:06:58,268 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:06:58,270 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:06:58,274 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:06:58,275 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:12:41,744 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:12:41,745 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:12:41,746 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:12:41,747 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:18:09,271 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:18:09,273 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:18:09,276 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:18:09,276 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:18:20,539 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:18:20,539 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:18:20,540 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:18:20,541 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:25:06,376 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:25:06,377 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:25:06,378 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:25:06,378 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:57:19,818 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-22 17:57:25,264 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:57:25,268 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:57:25,274 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:57:25,277 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 17:59:29,566 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:59:29,570 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 17:59:29,573 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 17:59:29,573 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 18:01:07,715 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 18:01:07,718 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 18:01:07,722 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 18:01:07,723 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 18:01:22,734 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 18:01:22,735 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 18:01:22,737 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 18:01:22,737 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 18:07:53,631 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-22 18:07:58,110 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 18:07:58,111 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 18:07:58,115 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 18:07:58,115 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
+2020-02-22 20:08:56,181 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-22 20:09:03,177 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 20:09:03,178 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/main/resources
+2020-02-22 20:09:03,183 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-22 20:09:03,183 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/troy-mac/eclipse-workspace/jupiter/src/test/resources
